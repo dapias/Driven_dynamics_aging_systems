@@ -1,3 +1,1 @@
-# Driven_dynamics_aging_systems
-# Driven_dynamics_aging_systems
-# Driven_dynamics_aging_systems
+Code to generate the figures of the manuscript entitled "Bringing together two paradigms of non-equilibrium: Driven dynamics of aging systems" 
